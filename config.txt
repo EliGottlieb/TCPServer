@@ -1,0 +1,4 @@
+Port--50016
+Directory--esg58
+Persistency--true
+Idle Time (ms)--4000
