@@ -1,7 +1,6 @@
 README - Eli Gottlieb - Persistent and Non-Persistent Server
 
-
-
+This server will support HTTP requests to the html files provided and deal with any requests to other pages with a 404 error.
 This server was tested with Google Chrome Version 95.0.4638.69 (Official Build) (64-bit)
 ****
 Config Notes:
